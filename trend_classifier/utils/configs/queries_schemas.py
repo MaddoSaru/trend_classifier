@@ -1,0 +1,9 @@
+data_extraction_schema = [
+    "RECEIVED_AT_ORIGIN_PROCESSING_DATE_UTC",
+    "BRAND_NAME",
+    "MERCHANT_ID",
+    "X_3PL_NAME",
+    "CLIENT_ID",
+    "ACCOUNT_LIFECYCLE_STAGE_C",
+    "SHIPMENT_VOLUME",
+]
